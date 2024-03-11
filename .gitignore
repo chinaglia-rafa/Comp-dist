@@ -21,3 +21,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/aula-2/nbproject/private/
+/aula-2/build/
+/aula-3/nbproject/private/
+/aula-4/nbproject/private/
+/aula-4/build/
+/Fatorial/nbproject/private/
+/Calculadora/nbproject/private/
+/EJBRemoteInterface/nbproject/private/
+/EJBRemoteInterface/dist/
+/EJBRemoteInterface/build/
+/EntAppClient/nbproject/private/
+/EntAppClient/dist/
+/EntAppClient/build/
+/CalculatorWSApplication/nbproject/private/
+/CalculatorWSApplication/build/
+/CalculatorWS_Client_Application/nbproject/private/
+/CalculatorWS_Client_Application/build/
+/UpperLowerWSApplication/nbproject/private/
+/UpperLowerWSApplication/build/
+/UpperLowerClient/nbproject/private/
+/UpperLowerClient/build/
